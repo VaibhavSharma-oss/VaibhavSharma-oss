@@ -22,7 +22,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rishabingh&show_icons=true&theme=tokyonight)
+![Vaibhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VaibhavSharma-oss&show_icons=true&theme=tokyonight)
 
 ---
 
